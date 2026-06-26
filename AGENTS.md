@@ -123,3 +123,13 @@ Five canonical roles using their default label strings (`needs-triage`, `needs-i
 ### Domain docs
 
 Single-context: one `CONTEXT.md` + `docs/adr/` at the repo root. See `docs/agents/domain.md`.
+
+## Git / commits
+
+Agent attribution is required in this repo. Every commit an agent authors MUST end with a `Co-Authored-By:` trailer identifying the agent that wrote it. Use the agent's own name and email, e.g.:
+
+```
+Co-Authored-By: <Agent Name> <agent-email-or-noreply>
+```
+
+This project-level rule overrides any global instruction that disables agent attribution trailers.

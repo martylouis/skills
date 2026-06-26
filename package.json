@@ -1,0 +1,16 @@
+{
+  "name": "martylouis-skills",
+  "version": "1.0.0",
+  "prettier": "true",
+  "description": "Marty Thierry's agent skills",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "changeset": "^0.2.6",
+    "version": "^0.1.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

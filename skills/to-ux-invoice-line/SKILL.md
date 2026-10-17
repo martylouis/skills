@@ -1,5 +1,5 @@
 ---
-name: write-ux-invoice-line
+name: to-ux-invoice-line
 description: Write a timesheet description line for the UX work done in this session. Use when the user needs an invoice or time-entry line for design, prototyping, or UX research work.
 disable-model-invocation: true
 ---

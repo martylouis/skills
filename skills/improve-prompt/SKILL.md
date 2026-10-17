@@ -5,7 +5,7 @@ description: Write a deeper prompt for a task, framed the way a top professional
 
 # Improve Prompt
 
-Inspired by Felix Rieseberg's essay [How to be more ambitious: A tutorial for humans with models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/).
+Adapted from Felix Rieseberg's essay [How to be more ambitious: A tutorial for humans with models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/).
 
 The goal is a deeper version of the task, not a bigger one.
 

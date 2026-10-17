@@ -1,5 +1,5 @@
 ---
-name: write-deep-prompt
+name: improve-prompt
 description: Write a deeper prompt for a task, framed the way a top professional in the field would approach it, before starting. Use when starting a substantial task, or when asked to go deeper or be more ambitious.
 ---
 

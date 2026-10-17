@@ -3,7 +3,7 @@ name: add-todoist-task
 description: Create, find, or update a Todoist task and always return its link. Use when you create, look up, or mention a Todoist task.
 ---
 
-# Manage Todoist Task
+# Add Todoist Task
 
 Handle one Todoist task through whatever Todoist tools are available, and hand it back with its link every time.
 

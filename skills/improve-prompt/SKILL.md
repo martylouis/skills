@@ -3,7 +3,7 @@ name: improve-prompt
 description: Write a deeper prompt for a task, framed the way a top professional in the field would approach it, before starting. Use when starting a substantial task, or when asked to go deeper or be more ambitious.
 ---
 
-# Write Deep Prompt
+# Improve Prompt
 
 Inspired by Felix Rieseberg's essay [How to be more ambitious: A tutorial for humans with models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/).
 
